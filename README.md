@@ -1,6 +1,9 @@
 In this assignment let's build a **Nxt Trendz** App with Protected Route by
 applying the concepts we have learned till now.
 
+### Link to the page is given below:
+https://mknxtproroute.ccbp.tech/
+
 ### Refer to image below:
 
 <br/>
